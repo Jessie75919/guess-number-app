@@ -8,7 +8,7 @@ btn.addEventListener('click', function () {
 
   if (userVal === randomNumber) {
     Swal.fire({
-      title: 'Awesome!!!',
+      title: 'Great!!!!!',
       text: 'You are Right',
       icon: 'success',
       confirmButtonText: 'Cool',
